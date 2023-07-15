@@ -1,4 +1,9 @@
-// Take an array of names as input from the user and print them on the screen
+/* 
+   Take a string input from the user and return the duplicate input as the output 
+   For eg. Input --> hello my name is hello
+           Output --> hello
+*/
+
 
 import java.util.Scanner;
 
