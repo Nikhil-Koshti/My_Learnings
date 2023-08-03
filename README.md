@@ -14,9 +14,8 @@ Here is the link of my teacher form Apna College Shradha Didi [@shradha-khapra](
    char c = '2';
    int x = c - '0';
    int y = x + 1;
-   System.out.print(x+"\n"+y);
+   System.out.print(x+" "+y);
 
    Output:
-   2
-   3
+   2 3
 
