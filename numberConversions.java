@@ -1,4 +1,5 @@
 // Write 2 functions => decimalToBinary() & binaryToDecimal() to convert a number from one number system to another. [BONUS]
+// Question is from the Apna College Java Placement Course - Lecture 15.4
 
 import java.util.Scanner;
 
